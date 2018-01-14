@@ -23,6 +23,5 @@ var chocolateBars = [
     return array
   }
   function removeElementFromBeginningOfArray(array) {
-    array.slice(0)
-    return array
+    return array.slice(1)
   }
