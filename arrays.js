@@ -30,6 +30,5 @@ var chocolateBars = [
     return array
   }
   function removeElementFromEndOfArray(array) {
-    array.unshift()
-    return array
+    return
   }
