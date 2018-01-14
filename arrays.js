@@ -26,5 +26,6 @@ var chocolateBars = [
     return array.slice(1)
   }
   function  destructivelyRemoveElementFromEndOfArray(array) {
-    return array.slice(-1)
+    array.unshift()
+    return array
   }
