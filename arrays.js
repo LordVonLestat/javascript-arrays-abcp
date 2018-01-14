@@ -29,3 +29,7 @@ var chocolateBars = [
     array.pop()
     return array
   }
+  function removeElementFromEndOfArray(array) {
+    array.unshift()
+    return array
+  }
