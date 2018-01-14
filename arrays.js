@@ -8,6 +8,6 @@ var chocolateBars = [
     return array
   }
   function addElementToEndOfArray(array, element) {
-    array = [...array, "element"]
+    array = [...array, element]
     return array
   }
